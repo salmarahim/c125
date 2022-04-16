@@ -1,0 +1,19 @@
+1.We first import all the
+dependencies/ libraries.
+
+2. Then we get the data to
+train and test the model.
+
+3. Then we split the data to
+train and test the model.
+
+4. Then we scale the data to
+make it of equal size.
+
+5. Then we fit the data into
+the logistic regression
+model.
+
+6.Then we make
+predictions.
+
